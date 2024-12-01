@@ -38,7 +38,7 @@ By developing a centralized database system, this project addresses these challe
 
 ## Technologies Used
 - **NetBeans**: Integrated development environment.
-- **XAMPP**: Local server solution (Apache, MySQL, PHP, and Perl).
+- **XAMPP**: Local server solution (Apache, MySQL).
 - **Java**: Backend programming for managing transactions.
 - **SQL**: Database querying and normalization.
 
